@@ -1,6 +1,6 @@
-# Programming-exercises
+# Ejercicios de Programación Resueltos
 
-Ejercicios de programación variados
+Esta colección incluye ejercicios de programación resueltos en diversos lenguajes, diseñados para fortalecer habilidades de codificación y comprensión de problemas.
 
 <hr/>
 
