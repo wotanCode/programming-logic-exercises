@@ -1,4 +1,4 @@
-# Ejercicios de Programación Resueltos
+# Ejercicios de Programación
 
 Esta colección incluye ejercicios de programación resueltos en diversos lenguajes, diseñados para fortalecer habilidades de codificación y comprensión de problemas.
 
